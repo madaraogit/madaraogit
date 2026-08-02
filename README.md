@@ -2,14 +2,11 @@
 
   <!-- Texto Animado no Topo -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+o+madaraogit!+👋;Desenvolvedor+Software;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Ola,+sou+o+madaraogit!;Desenvolvedor+Software;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
   </a>
+  
 
   <br><br>
-
-  <!-- Estatísticas do GitHub em Tempo Real -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=madaraogit&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madaraogit&layout=compact&theme=dark"/>
 
 </div>
 
