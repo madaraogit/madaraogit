@@ -1,12 +1,10 @@
 <div align="center">
 
-  <!-- Texto Animado no Topo -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Ola,+sou+o+madaraogit!;Desenvolvedor+Software;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
-  </a>
+  <!-- Banner Animado com Ondas -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=200&section=header&text=Olá,%20sou%20o%20madaraogit!&fontSize=40&animation=fadeIn&fontColor=ffffff" width="100%" />
   
 
-  <br><br>
+  <br>
 
 </div>
 
